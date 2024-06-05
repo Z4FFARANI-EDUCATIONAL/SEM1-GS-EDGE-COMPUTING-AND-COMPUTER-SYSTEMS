@@ -41,7 +41,7 @@ Para total utilização e aperfeiçoamento do sistema de acordo com suas necessi
 
 - **NÍVEL DE PPM PARA O SENSOR DE GÁS:** <br>
 ![FOTO](assets/img%20-%20nível%20de%20ppm%20médio.png)<br>
-*Nesta função, a unidade de medida ppm (também nomeada para ser um ponto flutuante), comumente utilizada para registrar quantidade de gases presente em ambiente (quanto maior o ppm, mais gás é presente), está sendo colocada em uma média entre 350 até 30.000 para o sensor MQ-135 (destinando a detectar dióxido de carbono). Entretanto, a média de ppm pode ser alterada para trabalhar em diferentes âmbitos.*
+*Nesta função, a unidade de medida ppm (também nomeada para ser um ponto flutuante), comumente utilizada para registrar quantidade de gases presente em ambiente (quanto maior o ppm, mais gás é presente), está sendo colocada em uma média entre 350 e 30.000 para o sensor MQ-135 (destinando a detectar dióxido de carbono). Entretanto, a média de ppm pode ser alterada para trabalhar em diferentes âmbitos.*
 
 - **TEMPERATURA:** <br>
 ![FOTO](assets/img%20-%20função%20necessária%20para%20temperatura.png) <br>
