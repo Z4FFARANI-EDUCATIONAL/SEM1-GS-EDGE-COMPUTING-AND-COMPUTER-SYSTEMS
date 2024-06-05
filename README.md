@@ -5,7 +5,7 @@
 
 
 ## LINKS
-- **[GS - SIMULADOR](https://www.tinkercad.com/things/caiS2UM6vG7-gs-simulador/editel?returnTo=%2Fthings%2FcaiS2UM6vG7-gs-simulador%3Fsharecode%3DH-b8QUJkQ7_S-XZZ2pjAcXow0_1kT6jryNqjPAjow3I)** <br>
+- **[SIMULADOR](https://www.tinkercad.com/things/caiS2UM6vG7-gs-simulador/editel?returnTo=%2Fthings%2FcaiS2UM6vG7-gs-simulador%3Fsharecode%3DH-b8QUJkQ7_S-XZZ2pjAcXow0_1kT6jryNqjPAjow3I)** <br>
 - **[VÍDEO EXPLICATIVO]()**
 
 
