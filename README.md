@@ -12,7 +12,7 @@
 ## DETALHES DO PROJETO
 ![FOTO](assets/img%20-%20simulador.png)
 
-A **[O20](https://www.g20.org/pt-br/g20-social/grupos-de-engajamento/oceans-20#:~:text=Sobre%20o%20O20&text=A%20criação%20do%20Oceans20%20pela,é%20plural%20em%20suas%20características.)**, em parceria com o projeto **Blue Future [(FIAP)](https://www.fiap.com.br)**, está procurando capturar e visualizar dados com métodos de fácil entendimento sobre a saúde dos oceanos e a poluição que os afetam. Com isso, decidimos elaborar um **protótipo** (e seu **simulador**) capaz de detectar gases tóxicos e nocivos para os oceanos, além de medir suas temperaturas.
+A **[O20](https://www.g20.org/pt-br/g20-social/grupos-de-engajamento/oceans-20#:~:text=Sobre%20o%20O20&text=A%20criação%20do%20Oceans20%20pela,é%20plural%20em%20suas%20características.)**, em parceria com o projeto **Blue Future [(FIAP)](https://www.fiap.com.br)**, está procurando capturar e visualizar dados com métodos de fácil entendimento sobre a saúde dos oceanos e a poluição que os afetam. Com isso, decidimos elaborar um **protótipo** (e seu **simulador**) capaz de detectar gases tóxicos no ar, além de medir a temperatura da superfície dos oceanos.
 
 Para o **protótipo**, consideramos o dióxido de carbono (CO2) como gás a ser detectado, pois ele é, de acordo com pesquisas, um dos principais causadores de acidificação, alteração química e diminuição do pH dos oceanos.
 
@@ -41,7 +41,7 @@ Para total utilização e aperfeiçoamento do sistema de acordo com suas necessi
 
 - **NÍVEL DE PPM PARA O SENSOR DE GÁS:** <br>
 ![FOTO](assets/img%20-%20nível%20de%20ppm%20médio.png)<br>
-*Nesta função, a unidade de medida ppm (também nomeada para ser um ponto flutuante), comumente utilizada para registrar quantidade de gases presente em ambiente (quanto maior o ppm, mais gás é presente), está sendo colocada em uma média entre 350 e 30.000 para o sensor MQ-135 (destinando a detectar dióxido de carbono). Entretanto, a média de ppm pode ser alterada para trabalhar em diferentes âmbitos.*
+*Nesta função, a unidade de medida ppm (também nomeada para ser um ponto flutuante), comumente utilizada para registrar quantidade de gases presente em ambiente (quanto maior o ppm, mais gás está presente), está sendo colocada em uma média entre 350 e 30.000 para o sensor MQ-135 (destinando a detectar dióxido de carbono). Entretanto, a média de ppm pode ser alterada para trabalhar em diferentes âmbitos.*
 
 - **TEMPERATURA:** <br>
 ![FOTO](assets/img%20-%20função%20necessária%20para%20temperatura.png) <br>
@@ -75,7 +75,7 @@ A escala termométrica utilizada em ambos os projetos é: **Celsius (ºC)**.
 
 O **protótipo** deve ser utilizado para propósitos experimentais! Não recomendamos o uso do mesmo em projetos profissionais ou que envolva segurança humana ou ambiental. Além disso, não nos responsabilizamos por eventuais danos.
 
-Os sensores, cabos, resistores e circuitos correm risco de quebra ou queima se em contato direto com a água. Todavia, uma vez que o **protótipo** se encontra confinado em um recipiente transparente, é possível captar a temperatura da água exceto na presença de gás.
+Os sensores, cabos, resistores e circuitos correm risco de quebra ou queima se em contato direto com a água. Todavia, uma vez que o **protótipo** se encontra confinado em um recipiente transparente, é possível captar a temperatura da água, exceto gases.
 
 
 ## REFERÊNCIAS
