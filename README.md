@@ -48,9 +48,10 @@ Para total utilização e aperfeiçoamento do sistema de acordo com suas necessi
 *Para esta função de temperatura, a biblioteca já trabalha para o sensor captar a temperatura ambiente (sem necessidade de intervenção).*
 
 ## REQUISITOS
-Para a implementação e execução do código do **protótipo** (localizado na pasta: **src**) no programa Arduino, a prévia instalação das bibliotecas dos sensores (localizadas na pasta: **libraries**) é necessária. Em caso de dúvida, segue instruções de instalação mais precisas:
+Para a implementação e execução do código do **protótipo** (localizado na pasta: **src**) no Arduino IDE, a prévia instalação das bibliotecas dos sensores (localizadas na pasta: **libraries**) é necessária. Em caso de dúvida, segue instruções de instalação mais precisas:
 
-- **[GUIA DE INSTALAÇÃO DE BIBLIOTECAS NO ARDUINO](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)**
+- **[INSTALAÇÃO DE BIBLIOTECAS NO ARDUINO IDE](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)**
+- **[INSTALAÇÃO DO ARDUINO IDE](https://www.arduino.cc/en/software)**
 
 Agora, para a construção do **protótipo**, serão necessários:
 
