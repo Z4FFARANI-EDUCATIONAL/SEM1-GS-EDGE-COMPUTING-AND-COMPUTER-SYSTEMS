@@ -64,7 +64,7 @@ Agora, para a construção do **protótipo**, serão necessários:
 - **1x** Resistor de 330 Ω (ohms)
 - **1x** Resistor de 1 kΩ
 - **1x** Resistor de 4 kΩ
-- **1x** Placa de ensaio (de preferência)
+- **1x** Placa de ensaio (de preferência com 830 pontos)
 - **26x** Cabos Jumper macho-macho (contados com a placa de ensaio incluída)
 
 
