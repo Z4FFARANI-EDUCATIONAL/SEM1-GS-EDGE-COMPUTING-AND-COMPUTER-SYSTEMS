@@ -68,8 +68,7 @@ Agora, para a construção do **protótipo**, serão necessários:
 - **26x** Cabos Jumper macho-macho (contados com a placa de ensaio incluída)
 
 
-## IMPORTANTE
-**ATENÇÃO**: <br>
+## OBSERVAÇÕES
 O código do **simulador** e do **protótipo** são diferentes!
 
 A escala termométrica utilizada em ambos os projetos é: **Celsius (ºC)**.
