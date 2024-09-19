@@ -1,7 +1,7 @@
 # INTEGRANTES
-- **Kaique Rodrigues Zaffarani** (RM: 556677) 
-- **Guilherme Santos Nunes** (RM: 558989)
-- **Henry Evideira Paulo** (RM: 554985)
+- **[Kaique Rodrigues Zaffarani](https://github.com/Z4ffarani)**
+- **[Guilherme Santos Nunes](https://github.com/sannunez)**
+- **[Henry Evideira Paulo](https://github.com/Hep4xl0)**
 
 
 ## LINKS
