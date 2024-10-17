@@ -71,7 +71,7 @@ Agora, para a construção do **protótipo**, serão necessários:
 ## OBSERVAÇÕES
 - O código do **simulador** e do **protótipo** são diferentes!
 
-- Os preços dos componentes estão sujeitos a valorização ou desvalorização.
+- Os preços dos componentes do simulador estão sujeitos a valorização ou desvalorização.
 
 - A escala termométrica utilizada em ambos os projetos é: **Celsius (ºC)**.
 
