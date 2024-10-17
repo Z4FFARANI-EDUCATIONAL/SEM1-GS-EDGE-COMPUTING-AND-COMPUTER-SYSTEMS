@@ -69,13 +69,15 @@ Agora, para a construção do **protótipo**, serão necessários:
 
 
 ## OBSERVAÇÕES
-O código do **simulador** e do **protótipo** são diferentes!
+- O código do **simulador** e do **protótipo** são diferentes!
 
-A escala termométrica utilizada em ambos os projetos é: **Celsius (ºC)**.
+- Os preços dos componentes estão sujeitos a valorização ou desvalorização.
 
-O **protótipo** deve ser utilizado para propósitos experimentais! Não recomendamos o uso do mesmo em projetos profissionais ou que envolva segurança humana ou ambiental. Além disso, não nos responsabilizamos por eventuais danos.
+- A escala termométrica utilizada em ambos os projetos é: **Celsius (ºC)**.
 
-Os sensores, cabos, resistores e circuitos correm risco de quebra ou queima se em contato direto com a água. Todavia, uma vez que o **protótipo** se encontra confinado em um recipiente transparente, é possível captar a temperatura da água, exceto gases.
+- O **protótipo** deve ser utilizado para propósitos experimentais! Não recomendamos o uso do mesmo em projetos profissionais ou que envolva segurança humana ou ambiental. Além disso, não nos responsabilizamos por eventuais danos.
+
+- Os sensores, cabos, resistores e circuitos correm risco de quebra ou queima se em contato direto com a água. Todavia, uma vez que o **protótipo** se encontra confinado em um recipiente transparente, é possível captar a temperatura da água, exceto gases.
 
 
 ## REFERÊNCIAS
