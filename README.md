@@ -16,7 +16,7 @@ A **[O20](https://www.g20.org/pt-br/g20-social/grupos-de-engajamento/oceans-20#:
 
 Para o protótipo, consideramos o dióxido de carbono (CO2) como gás a ser detectado, pois ele é, de acordo com pesquisas, um dos principais causadores de acidificação, alteração química e diminuição do ph dos oceanos.
 
-## INSTRUÇÕES DE USO - SIMULADOR
+## INSTRUÇÕES DE USO | SIMULADOR
 Para melhor experiência no simulador, é necessário compreender algumas informações intrínsecas presentes nele:
 
 - **TEMPERATURA:** <br>
@@ -32,7 +32,7 @@ Para melhor experiência no simulador, é necessário compreender algumas inform
 *É possível alterar os valores sublinhados de azul, ocasionando a mudança do raio de distância que cada alerta será transmitido no LCD, apesar de estarem previamente calibrados.*
 
 
-## INSTRUÇÕES DE USO - PROTÓTIPO
+## INSTRUÇÕES DE USO | PROTÓTIPO
 Para total utilização e aperfeiçoamento do sistema de acordo com suas necessidades, é necessário compreender algumas informações essenciais presentes na codificação do protótipo:
 
 - **FUNDAMENTAIS:** <br>
