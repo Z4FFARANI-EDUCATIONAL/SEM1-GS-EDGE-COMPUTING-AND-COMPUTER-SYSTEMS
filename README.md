@@ -12,12 +12,12 @@
 ## DETALHES DO PROJETO
 ![FOTO](assets/img%20-%20simulador.png)
 
-A **[O20](https://www.g20.org/pt-br/g20-social/grupos-de-engajamento/oceans-20#:~:text=Sobre%20o%20O20&text=A%20criação%20do%20Oceans20%20pela,é%20plural%20em%20suas%20características.)**, em parceria com o projeto **Blue Future [(FIAP)](https://www.fiap.com.br)**, está procurando capturar e visualizar dados com métodos de fácil entendimento sobre a saúde dos oceanos e a poluição que os afetam. Com isso, decidimos elaborar um **protótipo** (e seu **simulador**) capaz de detectar gases tóxicos no ar, além de medir a temperatura da superfície dos oceanos.
+A **[O20](https://www.g20.org/pt-br/g20-social/grupos-de-engajamento/oceans-20#:~:text=Sobre%20o%20O20&text=A%20criação%20do%20Oceans20%20pela,é%20plural%20em%20suas%20características.)**, em parceria com o projeto Blue Future da **[FIAP](https://www.fiap.com.br)**, está procurando capturar e visualizar dados com métodos de fácil entendimento sobre a saúde dos oceanos e a poluição que os afetam. Com isso, decidimos elaborar um protótipo (e seu simulador) capaz de detectar gases tóxicos no ar, além de medir a temperatura da superfície dos oceanos.
 
-Para o **protótipo**, consideramos o dióxido de carbono (CO2) como gás a ser detectado, pois ele é, de acordo com pesquisas, um dos principais causadores de acidificação, alteração química e diminuição do pH dos oceanos.
+Para o protótipo, consideramos o dióxido de carbono (CO2) como gás a ser detectado, pois ele é, de acordo com pesquisas, um dos principais causadores de acidificação, alteração química e diminuição do ph dos oceanos.
 
 ## INSTRUÇÕES DE USO - SIMULADOR
-Para melhor experiência no **simulador**, é necessário compreender algumas informações intrínsecas presentes nele:
+Para melhor experiência no simulador, é necessário compreender algumas informações intrínsecas presentes nele:
 
 - **TEMPERATURA:** <br>
 ![FOTO](assets/img%20-%20medindo%20temperatura.png)<br>
@@ -33,7 +33,7 @@ Para melhor experiência no **simulador**, é necessário compreender algumas in
 
 
 ## INSTRUÇÕES DE USO - PROTÓTIPO
-Para total utilização e aperfeiçoamento do sistema de acordo com suas necessidades, é necessário compreender algumas informações essenciais presentes na codificação do **protótipo**:
+Para total utilização e aperfeiçoamento do sistema de acordo com suas necessidades, é necessário compreender algumas informações essenciais presentes na codificação do protótipo:
 
 - **FUNDAMENTAIS:** <br>
 ![FOTO](assets/img%20-%20bibliotecas%20e%20definições%20com%20entradas%20específicas.png)<br>
@@ -48,12 +48,12 @@ Para total utilização e aperfeiçoamento do sistema de acordo com suas necessi
 *Para esta função de temperatura, a biblioteca já trabalha para o sensor captar a temperatura ambiente (sem necessidade de intervenção).*
 
 ## REQUISITOS
-Para a implementação e execução do código do **protótipo** (localizado na pasta: **src**) no Arduino IDE, a prévia instalação das bibliotecas dos sensores (localizadas na pasta: **libraries**) é necessária. Em caso de dúvida, segue instruções de instalação mais precisas:
+Para a implementação e execução do código do protótipo (localizado na pasta: `src`) no Arduino IDE, a prévia instalação das bibliotecas dos sensores (localizadas na pasta: `libraries`) é necessária. Em caso de dúvida, segue instruções de instalação mais precisas:
 
 - **[INSTALAÇÃO DE BIBLIOTECAS NO ARDUINO IDE](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)**
 - **[INSTALAÇÃO DO ARDUINO IDE](https://www.arduino.cc/en/software)**
 
-Agora, para a construção do **protótipo**, serão necessários:
+Agora, para a construção do protótipo, serão necessários:
 
 - **1x** Cabo USB para Arduino Uno
 - **1x** Arduino Uno R3 [(Documentação)](https://docs.arduino.cc/hardware/uno-rev3/)
@@ -69,15 +69,15 @@ Agora, para a construção do **protótipo**, serão necessários:
 
 
 ## OBSERVAÇÕES
-- O código do **simulador** e do **protótipo** são diferentes!
+- O código do simulador e do protótipo são diferentes!
 
 - Os preços dos componentes do simulador estão sujeitos a valorização ou desvalorização.
 
-- A escala termométrica utilizada em ambos os projetos é: **Celsius (ºC)**.
+- A escala termométrica utilizada em ambos os projetos é: Celsius (ºC).
 
-- O **protótipo** deve ser utilizado para propósitos experimentais! Não recomendamos o uso do mesmo em projetos profissionais ou que envolva segurança humana ou ambiental. Além disso, não nos responsabilizamos por eventuais danos.
+- O protótipo deve ser utilizado para propósitos experimentais! Seu uso não é recomendado em projetos profissionais ou que envolva segurança humana ou ambiental.
 
-- Os sensores, cabos, resistores e circuitos correm risco de quebra ou queima se em contato direto com a água. Todavia, uma vez que o **protótipo** se encontra confinado em um recipiente transparente, é possível captar a temperatura da água, exceto gases.
+- Os sensores, cabos, resistores e circuitos correm risco de quebra ou queima se em contato direto com a água. Todavia, uma vez que o protótipo se encontra confinado em um recipiente transparente, é possível captar a temperatura da água, exceto gases.
 
 
 ## REFERÊNCIAS
